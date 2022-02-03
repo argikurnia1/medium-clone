@@ -6,7 +6,7 @@
 
 ### /pages
 
-✔️ `pages/index.tsx` = Homepage and list all Blogs
+✔️ `pages/index.tsx` = Homepage and list all Blogs <br/>
 ✔️ `pages/post/[slug].tsx` = Details Blog
 
 ### /pages/api
