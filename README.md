@@ -23,7 +23,7 @@ Create an `.env.local` and follow the name `.env.example` and get the API Keys b
 <summary>Sanity API KEYS</summary>
 <p>
 <br>
-1. Create Sanity account <br>
+1. Create a Sanity account <br>
 2. Create new project  <br>
 3. npm install -g @sanity/cli && sanity init  <br>
 4. After you create new project, Go to your project, you will see the PROJECT ID at the top  <br>
@@ -49,6 +49,7 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 ## ⚙ Tech Stack
 
+- Javascript
 - ReactJS
 - NextJS
 - Typescript
