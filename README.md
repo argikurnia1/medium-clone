@@ -34,7 +34,7 @@ Create an `.env.local` and follow the name `.env.example` and get the API Keys b
    
 ![](https://res.cloudinary.com/di3zoiucb/image/upload/v1643897298/clone/sanity-api-tokens_1_xac809.png)
 
-![](https://res.cloudinary.com/di3zoiucb/image/upload/v1643897311/clone/sanity-api-tokens_2_jsqfam.png)
+![](https://res.cloudinary.com/di3zoiucb/image/upload/v1643945421/clone/sanity-api-tokens_2_rdewle.png)
 
 6. Put it into the environment variables according to `.env.example` and you're all set! <br>
 
